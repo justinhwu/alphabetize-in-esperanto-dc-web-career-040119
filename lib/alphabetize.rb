@@ -6,5 +6,4 @@ def alphabetize(arr)
       ESPERANTO_ALPHABET.index(b)
     end
   end
-  
 end
