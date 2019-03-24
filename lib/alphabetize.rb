@@ -1,5 +1,5 @@
 def alphabetize(arr)
   # code here
-  arr.each do |a|
+  arr.sort_by 
     
 end
